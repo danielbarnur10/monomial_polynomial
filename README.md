@@ -1,2 +1,2 @@
 # monomial_polynomial
-Academy project monomial and polynomial classes and methods 
+Academy project monomial and polynomial classes and methods in cpp
